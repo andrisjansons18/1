@@ -3,7 +3,13 @@ display: flex;
 padding: 16px 32px 8px;
 margin: 8px 12px;
 background-color: #00ffff;
-font-family: 'Courier New', Courier, monospace;
+font-family: 'Courier New', monospace;
 font-size: 32px;
 }
-
+.arejaKatse{
+  border-style: dotted;
+    border-color: red;
+  background-color: lightblue;
+  padding: 10px 10px 10px 10px;
+  margin: 50px 20px 75pc 100px;
+}
