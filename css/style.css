@@ -8,8 +8,8 @@ font-size: 32px;
 }
 .arejaKatse{
   border-style: dotted;
-    border-color: red;
+    border-color: blue;
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
-  margin: 50px 20px 75pc 100px;
+  margin: 50px 20px 50px 20px;
 }
