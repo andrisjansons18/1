@@ -1,12 +1,11 @@
 .teksts {
+  border-style: solid;
 display: flex;
 padding: 16px 32px 8px;
 margin: 8px 12px;
-background-color: #00ffff;
-font-family: 'Courier New', Courier, monospace;
-font-size: 32px;
 }
 .arejaKatse{
   padding: 30px 30px 30px 30px;
   margin: 50px 100px 50px 100px;
 }
+font-size
