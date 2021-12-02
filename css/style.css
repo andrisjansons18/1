@@ -4,7 +4,7 @@
   border: 1px solid #4CAF50;
 }
 .arejaKatse{
-  border: 1px solid #000000
+  border-style: solid;
   padding: 30px 30px 30px 30px;
   margin: 50px 100px 50px 100px;
 }
