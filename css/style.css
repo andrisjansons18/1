@@ -8,7 +8,7 @@ border: 1px solid #000000;
 border-radius: 90px;
 }
 .button{
-margin-left: 60%;
+text-align: right;
 }
 .attels{
 width: 330px;
@@ -19,3 +19,4 @@ width: 330px;
  font-size: 38px;
  text-align: center;
 }
+margin-left: 60%;
